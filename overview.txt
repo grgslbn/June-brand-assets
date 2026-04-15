@@ -2,7 +2,7 @@ June Brand Assets — Folder Overview
 ====================================
 
 Root: June-brand-assets/
-Contains 4 subfolders: charatcter Junior, graphic elements, images, logo
+Contains 5 subfolders: charatcter Junior, graphic elements, images, June_icons, logo
 
 
 1. charatcter Junior/  (character illustrations — "Junior" mascot variants)
@@ -94,3 +94,36 @@ SVG:
   - June_logo_green.svg
   - June_logo_pink.svg
   - June_logo_white.svg
+
+
+5. June_icons/  (180 items including UI/conceptual icons and screenshots)
+--------------------------------------------------------------------------
+Screenshots & Documents:
+  - 3 "Scannable Document" PNGs
+  - 13 "Screenshot" / "Scherm_afbeelding" PNGs
+
+Other images:
+  - Arti Int.png
+  - June Dongle.png
+
+Icons (A-Z):
+  - A: accept.png, acquisition.png, active.png, adaptation.png, advice.png, affection.png, air-conditioning.png, alert.png, amenities.png, analysis.png, analytic.png, anxiety.png, appartment.png, arrow-down.png
+  - B: bar-chart.png, battery.png, belgium.png, bell.png, bill.png, bio-energy.png, blood-sausage.png, brain.png, brussels.png, build.png, buildings.png
+  - C: calendar.png, car-oil.png, check-mark.png, check.png, checkbox.png, chronometer.png, cloud-computing.png, co2.png, community.png, confrontation.png, country.png, customer-service-2.png, customer-service.png, customer-support.png
+  - D: dashboard.png, deliverable.png, devices.png, digital.png, distribution.png
+  - E: eco-house.png, efficiency.png, energy-2.png, energy-3.png, energy-class-2.png, energy-class.png, energy-consumption.png, energy.png, equalizer.png, euro.png, europe-2.png, europe-3.png, europe.png, exchange.png, expandir-2.png, expandir.png, export.png
+  - F: family.png, filter.png, financial-profit.png, flame.png
+  - G: goal.png, grow.png, growth.png
+  - H: handshake.png, happy.png, history.png, home-2.png, home-3.png, home-4.png, home.png, house.png
+  - I: idea.png, inequality.png, insurance-2.png, insurance.png, invest.png, invoice.png
+  - L: leaf.png, lifetime.png, light-bulb.png, link.png
+  - M: mail.png, menu-dots.png, minus-button.png, money.png
+  - N: netherlands.png, news.png
+  - O: objective.png
+  - P: path.png, piggy-bank.png, planning.png, plus-2.png, plus.png, power-plant.png, power.png, price.png, pricing.png, problem.png, project-management.png, proposition-2.png, proposition.png, puzzle-2.png, puzzle.png
+  - R: random.png, rating-2.png, rating.png, renovation-2.png, renovation.png, repeat.png, report.png, responsive.png, revenue.png, review.png, rise.png, rocket.png, roi.png
+  - S: sales.png, sausage-2.png, sausage.png, save-time.png, saving.png, scale.png, service.png, setting.png, settings.png, shooting-stars.png, shuffle.png, shuttle.png, smart-home-2.png, smart-home.png, smart-meter.png, smart-washing-machine.png, smiley.png, social-media-marketing.png, solar-energy.png, solar-panel-2.png, solar-panel.png, solution.png, spain.png, star.png, success.png, sun-energy.png, sweden.png
+  - T: target.png, team-2.png, team.png, telescope-2.png, telescope-3.png, telescope.png, time-left.png, tools.png, trophy.png
+  - U: utilities.png
+  - V: verification.png
+  - W: wallet.png, warning.png, www.png
