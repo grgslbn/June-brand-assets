@@ -1,0 +1,96 @@
+June Brand Assets — Folder Overview
+====================================
+
+Root: June-brand-assets/
+Contains 4 subfolders: charatcter Junior, graphic elements, images, logo
+
+
+1. charatcter Junior/  (character illustrations — "Junior" mascot variants)
+---------------------------------------------------------------------------
+PNG character artwork, primarily energy-profile personas:
+  - Energie expert_MA.png
+  - Energie expert_ZA.png
+  - Junior_Groen.png         (green version)
+  - Junior_Rood.png          (red version)
+  - Prosument_ZA.png
+  - prosument_MA.png
+  - Slimme bespaarder_MA.png (smart saver)
+  - Slimme bespaarder_ZA.png
+  - Slimme lader_MA.png      (smart charger)
+  - Slimme lader_ZA.png
+
+  Webp/  — compressed web versions:
+    - Expert.webp
+    - Prosument.webp
+    - Slimme lader.webp
+    - slimme bespaarder.webp
+
+
+2. graphic elements/  (decorative icons and shapes)
+---------------------------------------------------
+  - Bliksem.png        (lightning bolt)
+  - Bol blauw.png      (blue sphere)
+  - Bol pattern.png
+  - Bol rood.png       (red sphere)
+  - bollen blauw.png   (blue spheres)
+  - H20bol.png         (water sphere)
+  - Karteling.png
+  - Question mark.png
+  - Vlam.png           (flame)
+  - Water.png
+  - Wist je dat.png    ("did you know")
+
+
+3. images/  (product/marketing imagery — dongle, app mockups, features)
+------------------------------------------------------------------------
+Dongle product shots:
+  - Dongle_Device_transparant.png
+  - Dongle_laptop_smartphone.png
+  - Dongle_transparant_800x800.png
+  - Dongle_with_leave.png
+  - Dongle_with_smartphone1.png … smartphone4, 7, 9
+  - Dongle_with_smartphonePNG_01.png, _02.png
+  - June Dongle_0.png
+  - June_dongle _loRES690x1200.jpg
+
+App / dashboard mockups:
+  - Core_mobileMockup_graph_moreSpacing.png (+ _FR.png)
+  - Insights_devicesMockup_hand_v1_x1.png.png
+  - Insights_devicesMockup_laptopOnly.png (+ .png.png variant)
+  - dashboard-laptop.png (+ copy)
+  - June_verbruiksapp_410x840.jpg
+  - June_verbuiksgrafiek_585x1200.jpg
+
+Feature tiles:
+  - Feature - solar-1.png.png
+  - Feature-automated tariffs.png.png
+  - Feature-categorieen.png.png
+  - Feature-meldingen.png.png
+  - Feature-piekverbruik.png.png
+  - Feature_Besparingsrapport_NOT.png
+
+Misc:
+  - Image_004.png, Image_006.png, Image_014.png
+
+  anim/  — animated icons (MP4):
+    - June_animatedIcon_01.mp4
+    - June_animatedIcon_02.mp4
+    - June_animatedIcon_03.mp4
+    - June_animatedIcon_04.mp4
+    - June_animatedIcon_06.mp4
+    - June_animatedIcon_07.mp4
+    - June_animatedIcon_08.mp4
+
+
+4. logo/  (brand logo files)
+----------------------------
+PNG:
+  - June-Logo-black.png
+  - June-Logo-green.png
+  - June-Logo-red.png
+
+SVG:
+  - June_logo_black.svg
+  - June_logo_green.svg
+  - June_logo_pink.svg
+  - June_logo_white.svg
